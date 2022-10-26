@@ -1,18 +1,18 @@
 template | flex-projeto
- # INTERFACE DE UPLOAD DE ARQUIVOS
+ # Projeto integrador DIO
 
 
 
 ##### Feito por Samuel SS, Fortaleza  Brasil
 
-## Proposta: 
+## Proposta 
 
 Criar um layout responsivo com css flexbox.
 
-### Dificuldades
+## Dificuldades
 
 Usar as propriedades ao invés de setar manualmente cada objeto.
 
-### Conclusões
+## Conclusões
 
 Ao se usar as propriedades poupa-se muito trabalho futuro, por exemplo nas consultas de mídia.
