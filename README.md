@@ -1,18 +1,8 @@
-template | flex-projeto
- # Projeto integrador DIO
+# PROJETO INTEGRADOR DIO
+#### Feito por Samuel SS, Fortaleza  Brasil
 
+Criar um layout responsivo com CSS flexbox.
+## Contextualização
 
-
-##### Feito por Samuel SS, Fortaleza  Brasil
-
-## Proposta 
-
-Criar um layout responsivo com css flexbox.
-
-## Dificuldades
-
-Usar as propriedades ao invés de setar manualmente cada objeto.
-
-## Conclusões
-
-Ao se usar as propriedades poupa-se muito trabalho futuro, por exemplo nas consultas de mídia.
+Senti dificuldade em utilizar as propriedades nos elementos 'filhos'.
+>Conclusão: Ao se usar as propriedades poupa-se muito trabalho futuro, por exemplo nas consultas de mídia, assim como reduz o código substancialmente.
